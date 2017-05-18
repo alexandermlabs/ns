@@ -1,0 +1,4 @@
+language: cpp
+script:
+- sudo ./tests.sh
+- sudo ./docum.sh
